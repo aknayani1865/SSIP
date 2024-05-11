@@ -293,7 +293,7 @@ mysqli_close($con);
     <h4>Emergencies</h4>
     <div>
         <h6>District Helpline</h6>
-        <h6>Call :- +91 9824911137</h6>
+        <h6>Call :- +91 7016761465</h6>
     </div>
 </div>
 </div>
