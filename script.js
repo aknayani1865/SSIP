@@ -36,6 +36,3 @@ body.addEventListener('click', (event) => {
         closenavbars();
     }
 });
-
-
-
